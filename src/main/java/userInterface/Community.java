@@ -6,6 +6,7 @@
 
 package userInterface;
 
+
 import business.commclass;
 import static java.awt.Frame.NORMAL;
 import javax.swing.JOptionPane;
