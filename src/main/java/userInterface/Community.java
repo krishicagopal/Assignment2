@@ -28,6 +28,7 @@ public class Community extends javax.swing.JFrame {
         initComponents();
         
         
+        
     }
 
     /**
