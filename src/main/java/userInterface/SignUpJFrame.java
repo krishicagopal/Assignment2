@@ -15,6 +15,7 @@ public class SignUpJFrame extends javax.swing.JFrame {
      */
     public SignUpJFrame() {
         initComponents();
+        
     }
 
     /**
